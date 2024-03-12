@@ -1,5 +1,5 @@
 // CARLOS MACÍAS GIL
-// ACABADO
+
 
 package paint;
 
